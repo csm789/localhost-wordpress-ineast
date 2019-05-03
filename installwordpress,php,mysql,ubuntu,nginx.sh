@@ -166,6 +166,4 @@ cd /opt
   56  chown www-data.www-data -R arvisat/
   57  chown www-data.www-data -R arvisat/*
 
-
-
   Youtube link fo refernce

@@ -122,9 +122,9 @@ cd /opt
   12  mv index.html /var/www/html/
   13  ls
   14  exit
-  15  adduser sathyapriya
-  16  sudo sathyapriya
-  17  sudo su sathyapriya
+  15  adduser username
+  16  sudo susername
+  17  sudo su username
   18  apt update
   19  passwd root
   20  su -
